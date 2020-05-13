@@ -5,4 +5,6 @@ To enter the search query, you MUST hit the magnifying glass icon to the right i
 
 To open up the facet option, you must hit the slider icon TWICE.
 
+![Screenshot](AdvancedMovieDemoFacetedSearch.jpg)
+
 
